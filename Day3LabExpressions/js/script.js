@@ -24,29 +24,26 @@ var amountOrdered = 30
 //Find the total amount of pizza slices.
 
 //multiply numberofslices*amountOrdered
-var totalPizzaSlices = numberOfSlices*amountOrdered;
-console.log("There were " +totalPizzaSlices+" "+"slices of pizza in total.")
+var pizzaPerPerson = numberOfSlices * amountOrdered / numberOfPeople;
+
+console.log("There were " +pizzaPerPerson+" "+"slices of pizza in total.")
 
 //Now find the amount of pizza each person ate.
 
 //Divide totalPizzaSlices by numberOfPeople
 
-var slicesConsumed = totalPizzaSlices/numberOfPeople;
 
-console.log("Each Person ate"+" "+slicesConsumed+" "+"slices of pizza.")
+console.log("Each Person ate"+" "+pizzaPerPerson+" "+"slices of pizza.")
 
 //Slice of pizza part 2
 
 //Find the amount of pizza sparky got
 
-// find the produce between numberOfPeople*slicesConsumed
-
-var pizzaPeopleAte = numberOfPeople*slicesConsumed
-
 //Subtract totalPizzaSlices by numberOfPeople*slicesConsumed
 
-var sparkySlices = totalPizzaSlices-pizzaPeopleAte;
-console.log(sparkySlices)
+var sparkySlices = numberOfSlices * amountOrdered % numberOfPeople;
+
+console.log("In total")
 
 
 
