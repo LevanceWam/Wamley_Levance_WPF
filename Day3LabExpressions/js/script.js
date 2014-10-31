@@ -47,9 +47,9 @@ console.log("In total sparky had "+sparkySlices)
 
 //Average Shopping Bill
 var week1 = 100
-var week2 = 100
+var week2 = 50
 var week3 = 100
-var week4 = 100
+var week4 = 50
 var week5 = 100
 
 //total amount spent = 5 week sum
@@ -57,7 +57,8 @@ var totalAmountSpent = week1 + week2 + week3 + week4 + week5;
 console.log("Over 5 weeks I spent over $"+totalAmountSpent)
 
 //Find average for weekly spending
-
+var average = totalAmountSpent / 5; //5 is the number of weeks
+console.log("Over 5 week average comes out to $"+average)
 
 
 
