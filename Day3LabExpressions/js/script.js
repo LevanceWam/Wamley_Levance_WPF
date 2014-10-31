@@ -43,7 +43,7 @@ console.log("Each Person ate"+" "+pizzaPerPerson+" "+"slices of pizza.")
 
 var sparkySlices = numberOfSlices * amountOrdered % numberOfPeople;
 
-console.log("In total sparky had "+sparkySlices+);
+console.log("In total sparky had "+sparkySlices)
 
 //Average Shopping Bill
 var week1 = 100
@@ -52,7 +52,9 @@ var week3 = 100
 var week4 = 100
 var week5 = 100
 
-
+//total amount spent = 5 week sum
+var totalAmountSpent = week1 + week2 + week3 + week4 + week5;
+console.log("Over 5 weeks I spent over $"+totalAmountSpent)
 
 
 
