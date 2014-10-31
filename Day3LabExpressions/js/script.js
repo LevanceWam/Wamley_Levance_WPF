@@ -58,9 +58,9 @@ console.log("Over 5 weeks I spent over $"+totalAmountSpent)
 
 //Find average for weekly spending
 var average = totalAmountSpent / 5; //5 is the number of weeks
-console.log("Over 5 week average comes out to $"+average)
+console.log("My 5 week average comes out to $"+average)
 //Results format
-console
+console.log("")
 
 
 
