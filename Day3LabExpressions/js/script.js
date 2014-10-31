@@ -46,6 +46,11 @@ var sparkySlices = numberOfSlices * amountOrdered % numberOfPeople;
 console.log("In total sparky had "+sparkySlices+);
 
 //Average Shopping Bill
+var week1 = 100
+var week2 = 100
+var week3 = 100
+var week4 = 100
+var week5 = 100
 
 
 
