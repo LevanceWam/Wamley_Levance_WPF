@@ -19,7 +19,7 @@ alert("Welcome to Day 3 problems page!");
 //Calculate the amount of pizza slices eaten by each person.
 var numberOfSlices = 8;
 var numberOfPeople = 20;
-var amountOrdered = 26
+var amountOrdered = 30
 
 //Find the total amount of pizza slices.
 
@@ -33,13 +33,20 @@ console.log("There were " +totalPizzaSlices+" "+"slices of pizza in total.")
 
 var slicesConsumed = totalPizzaSlices/numberOfPeople;
 
-console.log("Each Person ate"+" "+slicesConsumed+" "+" slices of pizza.")
+console.log("Each Person ate"+" "+slicesConsumed+" "+"slices of pizza.")
 
 //Slice of pizza part 2
 
 //Find the amount of pizza sparky got
 
-//Subtract the amount 
+// find the produce between numberOfPeople*slicesConsumed
+
+var pizzaPeopleAte = numberOfPeople*slicesConsumed
+
+//Subtract totalPizzaSlices by numberOfPeople*slicesConsumed
+
+var sparkySlices = totalPizzaSlices-pizzaPeopleAte;
+console.log(sparkySlices)
 
 
 
