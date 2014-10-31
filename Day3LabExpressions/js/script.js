@@ -56,6 +56,8 @@ var week5 = 100
 var totalAmountSpent = week1 + week2 + week3 + week4 + week5;
 console.log("Over 5 weeks I spent over $"+totalAmountSpent)
 
+//Find average for weekly spending
+
 
 
 
