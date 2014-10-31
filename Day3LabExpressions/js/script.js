@@ -63,7 +63,15 @@ console.log("My 5 week average comes out to $"+average)
 console.log("Over 5 weeks I spent $"+totalAmountSpent+" "+ "and my average is $"+average+" "+"per week.")
 
 //Discount
+var original = 20;
+console.log("The original price of the item is $"+original)
+var discount = 50;
+var discountperc = discount / 100
+console.log("The Discount is "+discount+"%")
+var description = "pack of gatorade";
+var salesTax = 4.5
 
+var withtax
 
 
 
