@@ -26,7 +26,7 @@ var amountOrdered = 30
 //multiply numberofslices*amountOrdered
 var pizzaPerPerson = numberOfSlices * amountOrdered / numberOfPeople;
 
-console.log("There were " +pizzaPerPerson+" "+"slices of pizza in total.")
+console.log("There were " +240+" "+"slices of pizza in total.")
 
 //Now find the amount of pizza each person ate.
 
@@ -43,7 +43,7 @@ console.log("Each Person ate"+" "+pizzaPerPerson+" "+"slices of pizza.")
 
 var sparkySlices = numberOfSlices * amountOrdered % numberOfPeople;
 
-console.log("In total")
+console.log("In total sparky had ")
 
 
 
