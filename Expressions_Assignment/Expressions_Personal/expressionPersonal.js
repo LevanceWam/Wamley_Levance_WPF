@@ -26,4 +26,7 @@ alert(" Your total came out to $"+checkOut+".");
 var x = prompt("How many items did you buy that was over $40");
 x*= 20;
 console.log(x);
-alert("The sale amount is $")+String(x);
+alert("The sale amount is $"+String(x));
+
+ var total = checkOut - x;
+console.log("After subtracting the sales prices from your total. You owe $"+total+".");
