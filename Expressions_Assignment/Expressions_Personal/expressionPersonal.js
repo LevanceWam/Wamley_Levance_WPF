@@ -30,3 +30,4 @@ alert("The sale amount is $"+String(x));
 
  var total = checkOut - x;
 console.log("After subtracting the sales prices from your total. You owe $"+total+".");
+

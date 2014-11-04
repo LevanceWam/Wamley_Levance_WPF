@@ -45,3 +45,33 @@ alert("The area of your rectangle with a width of "+ width +" and a length of "+
 
 
 
+
+
+
+
+//Description of item.
+alert("Thank you! For shopping with us please take the time to describe what you brought today for more chances of this item to show up in our store." +
+"");
+
+var e = prompt("What item did you buy");
+var f = prompt("What item did you buy");
+var g = prompt("What item did you buy");
+var h = prompt("What item did you buy");
+
+itemList = alert([e+", "+f+", "+g+", "+h]);
+console.log(itemList);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
