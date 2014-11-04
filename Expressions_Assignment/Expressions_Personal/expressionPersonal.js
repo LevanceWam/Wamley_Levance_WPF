@@ -7,8 +7,7 @@
 alert("Your local clothing store is having a sale.\n The sale goes as follows: for every individual article of clothing over $40.You get 20 dollars off of each item.");
 
 
-//Your local clothing store is having a sale.
-//The sale goes as follows: for every individual article of clothing you buy you get 20 dollars off the item.
+//Determine the final price after subtracting the sales price.
 var item1 = prompt("What is the price of item 1");
 console.log(item1);
 var item2 = prompt("What is the price of item 2");
@@ -24,7 +23,7 @@ alert(" Your total came out to $"+checkOut+".");
 
 //Calculate the amount of the sale.
 
-var x = prompt("What is the total amount of the items you brought");
+var x = prompt("How many items did you buy that was over $40");
 x*= 20;
 console.log(x);
-alert(String" The sale amount is ")
+alert("The sale amount is $")+String(x);
