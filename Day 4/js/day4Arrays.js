@@ -20,15 +20,12 @@ var num = 2;
 //Lets print
 console.log(avengersNames[num]);
 
-
-
 // Now lets add an avenger to the array
 avengersNames[3] = "Thor";
 console.log(avengersNames);
 
 // Figure out the length of the array we solve this using the .length property
 //dot syntax property put a period in it
-
 
 console.log(avengersNames.length);
 
@@ -54,7 +51,6 @@ var soloAvenger = avengersNames.pop();
 console.log(avengersNames);
 console.log(soloAvenger);
 
-
 //Pick oranges every day
 //Track how many oranges are picked in each day
 var orangeBins = [234, 473, 20, 709];
@@ -64,9 +60,6 @@ var orangeBins = [234, 473, 20, 709];
 var orangeTotal = orangeBins[0] + orangeBins[1] + orangeBins[2] + orangeBins[3];
 console.log(orangeTotal+" is the total number of oranges picked.");
 
-
 //
 var orangeAverage = orangeTotal/orangeBins.length;
 console.log("the average amount of oranges picked in "+orangeBins.length+" days is "+orangeAverage+".");
-
-
