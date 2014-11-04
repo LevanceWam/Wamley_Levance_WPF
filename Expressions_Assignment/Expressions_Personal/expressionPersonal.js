@@ -4,7 +4,7 @@
  WPF 1411
  11-3-14
  */
-alert("Your local clothing store is having a sale.\n The sale goes as follows: for every individual article of clothing over $40.You get 20 dollars off the item.");
+alert("Your local clothing store is having a sale.\n The sale goes as follows: for every individual article of clothing over $40.You get 20 dollars off of each item.");
 
 
 //Your local clothing store is having a sale.
@@ -19,3 +19,12 @@ var item4 = prompt("What is the price of item 4");
 console.log(item4);
 
 var checkOut = Number(item1) + Number(item2) + parseInt(item3) + parseInt(item4);
+console.log(checkOut);
+alert(" Your total came out to $"+checkOut+".");
+
+//Calculate the amount of the sale.
+
+var x = prompt("What is the total amount of the items you brought");
+x*= 20;
+console.log(x);
+alert(String" The sale amount is ")
