@@ -5,7 +5,8 @@
  11-3-14
  */
 
-alert("Its the end of the month and you plan to make a list of the all the sites you plan to keep up?")
+alert("Its the end of the month and you plan to make a list of the all the sites you have and find the mean, " +
+"for the amount of people that visit your sites.");
 //You go through your sites and find that you have 6 of them
 
 
@@ -14,11 +15,6 @@ console.log("After going through your sites you have "+numSites)+" sites up and 
 //Now  list the sites
 var sites = ["Site 1", "Site 2", "Site 3", "Site 4", "Site 5", "Site 6"];
 console.log(sites);
-alert("You decide to check Site 5 because it seems a little buggy");
-console.log("access Site 5");
 
-console.log(sites[4]);
-
-alert("You decide to take down Site 5 do to all of the bugs");
-
+//Now we need to determine how many people each site has gotten.
 
