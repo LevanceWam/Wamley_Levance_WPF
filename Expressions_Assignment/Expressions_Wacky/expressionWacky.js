@@ -23,4 +23,10 @@ console.log(A);
 
 //Add 3
 alert("Now we have to add 3 to your product");
+A+=3;
+console.log(A);
+
+//Multiply by 2
+alert("Now we are going to multiply by 2");
+A*=2;
 
