@@ -19,4 +19,6 @@ console.log("access Site 5");
 
 console.log(sites[4]);
 
+alert("You decide to take down Site 5 do to all of the bugs");
+
 
