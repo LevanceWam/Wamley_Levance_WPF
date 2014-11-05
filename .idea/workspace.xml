@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/expressionWacky.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/expressionWacky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/expressionsIndustry.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/expressionsIndustry.js" />
     </list>
     <ignored path="Wamley_Levance_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,8 +63,8 @@
       <file leaf-file-name="expressionWacky.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/expressionWacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="825">
-              <caret line="11" column="186" selection-start-line="11" selection-start-column="186" selection-end-line="11" selection-end-column="186" />
+            <state vertical-scroll-proportion="0.43636364" vertical-offset="0" max-vertical-offset="825">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -476,10 +475,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/expressionsIndustry.js">
+    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/expressionPersonal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -496,10 +495,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/expressionPersonal.js">
+    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/expressionsIndustry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -508,8 +507,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/expressionWacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="825">
-          <caret line="11" column="186" selection-start-line="11" selection-start-column="186" selection-end-line="11" selection-end-column="186" />
+        <state vertical-scroll-proportion="0.43636364" vertical-offset="0" max-vertical-offset="825">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
