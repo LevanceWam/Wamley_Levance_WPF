@@ -14,8 +14,9 @@ console.log("After going through your sites you have "+numSites)+" sites up and 
 //Now  list the sites
 var sites = ["Site 1", "Site 2", "Site 3", "Site 4", "Site 5", "Site 6"];
 console.log(sites);
-//You decide to check Site 5 because its a little buggy
-// access Site 5
+alert("You decide to check Site 5 because it seems a little buggy");
+console.log("access Site 5");
 
+console.log(sites[4]);
 
 
