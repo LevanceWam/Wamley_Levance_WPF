@@ -29,4 +29,7 @@ console.log(A);
 //Multiply by 2
 alert("Now we are going to multiply by 2");
 A*=2;
+console.log(A);
 
+//add the second number from your age. Ex if you chose 15 then right now you would type in 5.
+var b = prompt("")
