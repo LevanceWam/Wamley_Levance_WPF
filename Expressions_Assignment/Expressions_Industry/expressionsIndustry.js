@@ -18,3 +18,17 @@ console.log(sites);
 
 //Now we need to determine how many people each site has gotten.
 
+var site1 =prompt("After checking Site 1 how many people visited site one");
+console.log(site1);
+var site2 =prompt("After checking Site 2 how many people visited site one");
+console.log(site2);
+var site3 =prompt("After checking Site 3 how many people visited site one");
+console.log(site3);
+var site4 =prompt("After checking Site 4 how many people visited site one");
+console.log(site4);
+var site5 =prompt("After checking Site 5 how many people visited site one");
+console.log(site5);
+var site6 =prompt("After checking Site 6 how many people visited site one");
+console.log(site6);
+
+//Now we want to find the
