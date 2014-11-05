@@ -31,4 +31,6 @@ console.log(site5);
 var site6 =prompt("After checking Site 6 how many people visited site one");
 console.log(site6);
 
-//Now we want to find the
+//Now we want to find the mean of the sites
+//First we need to add the site totals together.
+// Gather up all of the sites and put them in a table
