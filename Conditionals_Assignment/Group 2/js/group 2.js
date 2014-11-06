@@ -19,14 +19,11 @@ WPF 1411
  } else if (grade <= 75) {
   console.log("You have a " + grade + " , which means you have earned a(n) C in the class ");
 
- } else if (grade <= ) {
-  console.log("You have a " + grade + " , which means you have earned a(n)  in the class ");
+ } else if (grade <= 79) {
+  console.log("You have a " + grade + " , which means you have earned a(n) C+ in the class ");
 
- } else if (grade <= ) {
-  console.log("You have a " + grade + " , which means you have earned a(n)  in the class ");
-
- } else if (grade <= ) {
-  console.log("You have a " + grade + " , which means you have earned a(n)  in the class ");
+ } else if (grade <= 84) {
+  console.log("You have a " + grade + " , which means you have earned a(n) B in the class ");
 
  } else if (grade <= ) {
   console.log("You have a " + grade + " , which means you have earned a(n)  in the class ");
