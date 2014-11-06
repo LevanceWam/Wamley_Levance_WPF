@@ -23,6 +23,10 @@ console.log("Your ticket cost is $7.00");
 
 var time =prompt("What time did you get to the Movie Theater");
 
- if (time<5+"pm"){
-  console.log()
+ if (time <= 5+"pm"){
+  console.log("Your ticket cost is $7.00");
+
+ } else if (time >= 3+"pm"){
+  console.log("Your ticket cost is $7.00");
+
  }
