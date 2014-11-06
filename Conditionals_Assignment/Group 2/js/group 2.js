@@ -25,15 +25,15 @@ WPF 1411
  } else if (grade <= 84) {
   console.log("You have a " + grade + " , which means you have earned a(n) B in the class ");
 
- } else if (grade <= ) {
-  console.log("You have a " + grade + " , which means you have earned a(n)  in the class ");
+ } else if (grade <= 89) {
+  console.log("You have a " + grade + " , which means you have earned a(n) B+ in the class ");
 
- } else if (grade <= ) {
-  console.log("You have a " + grade + " , which means you have earned a(n)  in the class ");
+ } else if (grade <= 94) {
+  console.log("You have a " + grade + " , which means you have earned a(n) A in the class ");
 
- } else if (grade <= ) {
-  console.log("You have a " + grade + " , which means you have earned a(n)  in the class ");
+ } else if (grade <= 100) {
+  console.log("You have a " + grade + " , which means you have earned a(n) A+ in the class ");
 
  } else {
-  console.log("You need to get to work if you're seeing this message.")
+  console.log("You need to get to work if you're seeing this message. You're wasting money!")
  }
