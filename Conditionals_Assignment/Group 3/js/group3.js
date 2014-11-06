@@ -12,12 +12,17 @@ console.log(age);
 
 
  if (age < 10){
-console.log(" The child's ticket is $7.00");
+console.log("Your ticket cost is $7.00");
 
  } else if (age >= 55){
-  console.log("The ticket for you is $7.00");
+  console.log("Your ticket cost is $7.00");
 
  } else {
-  console.log("The ticket for you is $12.00")
+  console.log("Your ticket cost is $12.00");
  }
 
+var time =prompt("What time did you get to the Movie Theater");
+
+ if (time<5+"pm"){
+  console.log()
+ }
