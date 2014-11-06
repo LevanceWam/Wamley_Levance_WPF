@@ -137,7 +137,9 @@ var nope = "True"; // NOT A BOOLEAN
 
 var lightSwitch = false;
 
-
+var aB = 10;
+var bA = 20;
+console.log(aB + bA + 5);
 
 //Order of Operation
 //PEMDAS: Please excuse my dear aunt sally
