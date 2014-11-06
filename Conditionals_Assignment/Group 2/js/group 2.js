@@ -11,8 +11,8 @@ WPF 1411
  var grade =prompt("what is your grade");
 
  if (grade <= 69){
-  console.log("Sorry "+grade+" is a F")
+  console.log("You have a "+grade+ " , which means you have earned a(n) F in the class ")
  }
- else if (){
-  console.log
+ else if (grade <= 72){
+  console.log("You have a "+grade+ " , which means you have earned a(n) D in the class ")
  }
