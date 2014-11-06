@@ -44,22 +44,29 @@ conditionals
 
  //create a variable to hold the kid height
 
- var kidHeight = 47;
+ var kidHeight = 45;
 
  //sneaker lift
  var sneakerLift = 2;
 
-
+//create a variable for kid med heighrt
+ var minheight = 48;
+ // if your parent goes with you. you can go
+ var wParentHeight = 45;
 
 
  // if statement
- if(kidHeight > 48){
+ if(kidHeight > minheight){
 
   //true code goes
   console.log("Congrats, your tall enough to ride ")
 
+ } else if (kidHeight >= wParentHeight){
+  console.log(" you can ride but with your parent")
+
+
  } else if (kidHeight + sneakerLift > 48){
-  console.log("You can ride the ride, you cheater!");
+  console.log("You can ride the ride, if you wear sneakerlifts");
 
  } else {
   //false code
