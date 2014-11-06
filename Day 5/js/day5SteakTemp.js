@@ -45,9 +45,16 @@ console.log("your steak is extra rare");
 } else {
  console.log("you burned your steak")
 }
+//pay no mind
 
+ if (time <= 5+"pm"){
+  console.log("Your ticket cost is $7.00");
 
+ } else if (time >= 3+"pm"){
+  console.log("Your ticket cost is $7.00");
 
+ } else {
+  console.log("Your ticket cost is $12.00" );
 
 
 

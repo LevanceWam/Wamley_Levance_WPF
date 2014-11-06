@@ -8,27 +8,21 @@ WPF 1411
 //alert(hello);
 
  var age =prompt("How old are you");
+ var time=prompt("What time did you get to the Movie Theater");
+
 console.log(age);
+ console.log(time)
 
 
- if (age < 10){
+ if ((age <= 10 || age >= 55) || (time >=3 && time <=5)){
 console.log("Your ticket cost is $7.00");
-
- } else if (age >= 55){
-  console.log("Your ticket cost is $7.00");
 
  } else {
   console.log("Your ticket cost is $12.00");
  }
 
-var time =prompt("What time did you get to the Movie Theater");
+//var time=prompt("What time did you get to the Movie Theater");
 
- if (time <= 5+"pm"){
-  console.log("Your ticket cost is $7.00");
+ var result = (tempType <= 5) ? "T:Your ticket cost is $7.00" : (time >= 3) ? "T:Your ticket cost is $7.00": "T:Your ticket cost is $12.00";
 
- } else if (time >= 3+"pm"){
-  console.log("Your ticket cost is $7.00");
-
- } else {
-  console.log("Your ticket cost is $12.00" );
- }
+// console.log(result);
