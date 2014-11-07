@@ -69,10 +69,12 @@ WPF 1411
 
  } else if(temp<=75 && child<=6){
   console.log("go to movie with kid");
- } else if(temp<=70 && !child<=6){
-  console.log("bring the blood");
 
- }}
+
+ } else if(temp<=70 && !child<=6) {
+  console.log("bring the blood");
+ }
+ }
 
 
 
