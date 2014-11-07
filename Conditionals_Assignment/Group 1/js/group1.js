@@ -6,24 +6,18 @@ WPF 1411
  */
 //alert ("hello");
 
- /* Celsius to Fahrenheit converter
- Celsius
- The Formula to convert celsius to fahrenheit
- is x * 1.8(this is 9/5 in decimal form) + 32
- fahrenheit
- the formula to do this conversion is
- y * .5556(this is 5/9 in decimal form) - 32
-  */
+ //Last Chance for gas
 
-var x =prompt("What is the temperature outside");
- console.log("It is currently "+x+" outside");
+ var gas = prompt("what is your fuel efficiency");
+ var gauge =("What is the % of fuel do you have");
+ var tank = ("How many gallons do you have");
 
- if(x = x+"F"){
-  console.log("The Temperature in Celsius is "+x)
+ var mpg = (gauge/100)*tank*gas;
 
- } else if (x+"F"*.5556-32){
-console.log(x)
-
+ if ( mpg >= 200){
+console.log("You're good on gas you can make it. ")
+ } else{
+  console.log("Please proceed to get gas because in "+mpg+" miles you are going to need to get gas and you will ot make it.")
  }
 
 
