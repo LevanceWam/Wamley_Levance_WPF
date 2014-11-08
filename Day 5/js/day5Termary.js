@@ -27,7 +27,7 @@ Levance Wamley
  // kids under 10 will read dr suess
  // kids over will read time machine
 
- var age = 25;
+ var age =prompt("what is your age");
  var book;
 
 
