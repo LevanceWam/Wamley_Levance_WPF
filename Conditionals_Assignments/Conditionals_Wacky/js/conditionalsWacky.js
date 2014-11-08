@@ -18,9 +18,14 @@ WPF 1411
 
  var shots =prompt("How many shots did you make");
  console.log(shots*=2);
+var hours = 2;
+ var total =shots*=Number(hours);
 
- var total =shots*=2;
+ if (shots==""){
+  console.log("Put in a value or leave Basketball is very serious.");
+ } else if(shots<=100){
+  console.log("Have some M&M");
+ } else if (shots<=200){
+console.log("")
 
- if (shots<=100){
-  console.log()
  }

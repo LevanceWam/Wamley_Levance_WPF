@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Assignments/Conditionals_Personal/js/conditionalsPersonal.js" afterPath="$PROJECT_DIR$/Conditionals_Assignments/Conditionals_Personal/js/conditionalsPersonal.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Assignments/Conditionals_Wacky/js/conditionalsWacky.js" afterPath="$PROJECT_DIR$/Conditionals_Assignments/Conditionals_Wacky/js/conditionalsWacky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/js/day6Math.js" afterPath="$PROJECT_DIR$/Day 6/js/day6Math.js" />
     </list>
     <ignored path="Wamley_Levance_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +61,8 @@
       <file leaf-file-name="conditionalsWacky.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_Assignments/Conditionals_Wacky/js/conditionalsWacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34545454" vertical-offset="0" max-vertical-offset="825">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.38181818" vertical-offset="0" max-vertical-offset="825">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
               <folding>
                 <element signature="e#2#59#0" expanded="false" />
               </folding>
@@ -412,6 +410,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="true" />
+    <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -898,8 +897,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Assignments/Conditionals_Wacky/js/conditionalsWacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34545454" vertical-offset="0" max-vertical-offset="825">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.38181818" vertical-offset="0" max-vertical-offset="825">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding>
             <element signature="e#2#59#0" expanded="false" />
           </folding>
