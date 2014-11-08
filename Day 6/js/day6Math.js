@@ -74,8 +74,33 @@ console.log(num5);
  var num9 = Math.round(Math.random()*(80 - 50) + 50);
  console.log(num9);
 
- //Not sure if I had to type this but i did it any =way 
+ //Not sure if I had to type this but i did it any =way
 num9 = num9.toFixed(2);
  console.log(num9);
+
+
+ //prompt the user for a max and min value
+ // then find the number between them
+
+ var max =prompt("Let's find a random number whats the max value");
+ var min =prompt("please type in a min value");
+
+ //lets find the random integer
+
+ var randInt =Math.random() * (max-min) + Number(min);
+ console.log(randInt);
+ console.log("your number is "+randInt);
+
+
+ //Math class constant
+ //Number that never changes
+ //always uppercase
+ //Math.PI - 3.14...........
+ //2 * pi= r
+
+ var radius = 7;
+
+ var circleArea = 2*Math.PI*radius;
+ console.log(circleArea);
 
 
