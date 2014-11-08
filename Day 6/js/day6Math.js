@@ -103,4 +103,6 @@ num9 = num9.toFixed(2);
  var circleArea = 2*Math.PI*radius;
  console.log(circleArea);
 
-
+var chicken=prompt("number");
+var haha = chicken%2;
+ console.log(haha);
