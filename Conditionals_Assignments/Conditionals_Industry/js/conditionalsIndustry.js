@@ -17,4 +17,5 @@ WPF 1411
 
  console.log(days);
  console.log(sites);
- 
+
+ if ((days<=6 && days>9 ) ||  );
