@@ -16,3 +16,5 @@ WPF 1411
  var sites=prompt("How many sites did you make?");
 
  console.log(days);
+ console.log(sites);
+ 
