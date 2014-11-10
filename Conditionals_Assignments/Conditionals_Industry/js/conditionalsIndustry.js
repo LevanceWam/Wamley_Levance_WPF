@@ -12,4 +12,5 @@ WPF 1411
  // you have 12 days to get the job done
  // if you have at least 4 or 6 sites done within 6 - 9 days you can have some days off
 
- var days=prompt("");
+ var days=prompt("How many days did it take you to finish these sites");
+ var 
