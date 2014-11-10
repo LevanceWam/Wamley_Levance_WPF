@@ -14,3 +14,5 @@ WPF 1411
 
  var days=prompt("How many days did it take you to finish these sites?");
  var sites=prompt("How many sites did you make?");
+
+ console.log(days);
