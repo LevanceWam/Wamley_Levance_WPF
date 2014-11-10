@@ -21,9 +21,9 @@ WPF 1411
  if ((days<=6 && days==9 ) && (sites==4 || sites>=6 ) );{
   console.log("You can have a couple of days off your ahead of schedule");
 
- } else if  ((days=="") || (sites=="")){
+ }if  ((days=="") || (sites=="")){
   console.log("You get nothing go back to work!")
 
  } else {
-
+console.log("We're sorry you can't have any days off please try harder next time")
  }
