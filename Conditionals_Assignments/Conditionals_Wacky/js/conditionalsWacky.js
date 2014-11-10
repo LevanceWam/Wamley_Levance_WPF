@@ -3,7 +3,7 @@
 Levance Wamley
 Conditional Wacky
 WPF 1411
-11--2014
+11-7-2014
  */
 
 
@@ -14,7 +14,7 @@ WPF 1411
  //each shot is worth 2 points
  //so you would need to make 500 shots to get the prize
  //you only have 2 hours to get the price
- //The score will stop at 1000 so there is no going over
+ //The score will stop at 1000 so if you going over  1000 you still get the last prize
 
  var shots =prompt("How many shots did you make");
  console.log(shots*=2);
@@ -54,5 +54,5 @@ console.log("Have a Snickers");
   console.log("You get 30 Reese Cup");
 
  } else {
-  console.log("You get 50 Reese Cup")
+  console.log("You get 30 Reese Cup")
  }
