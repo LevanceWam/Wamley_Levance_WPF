@@ -29,12 +29,12 @@ WPF 1411
  //difference is the code will at least run once
 
 
- var i = 0;//counter variable
+ var i = 7;//counter variable
 
  do{
   console.log("the counting number is "+ i);
   //update or change the counting varible
-i+=5;
+i+=i;
 
  }while(i<50);
 
