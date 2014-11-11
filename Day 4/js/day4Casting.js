@@ -63,3 +63,5 @@ var b = parseInt("I am 40 years old");
 
  console.log(cupTotal);
 
+var jj = "10" + 10 + 10;
+ console.log(jj);
