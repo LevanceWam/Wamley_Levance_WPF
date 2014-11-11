@@ -61,7 +61,7 @@ if(numZombies>=1000000){
   numZombies = newZombies+numZombies; //numZombies+=newZombies
 
   console.log("There are now "+numZombies+" zombies on day "+days+"!");
-  
+
   days++;
  }
 
