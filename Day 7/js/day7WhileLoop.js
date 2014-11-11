@@ -34,7 +34,7 @@ WPF 1411
  do{
   console.log("the counting number is "+ i);
   //update or change the counting varible
-i+=i;
+i+=7;
 
  }while(i<50);
 
