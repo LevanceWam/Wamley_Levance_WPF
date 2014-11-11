@@ -15,13 +15,19 @@ WPF 1411
 
  var num=prompt("choose a number you want to see the multiplication table for.");
 
- var i = 0;
+ var i=Number(num);
 
  do{
   console.log("The number in the table is "+i);
-  i+=Number(num)
+  i+=Number(num);
 
+  while (num==="" ||isNaN(num)){
+   num=prompt("Please enter in a value");
+    i=Number(num);
+  }
 
  }while(i<=75);
+
+
 
 
