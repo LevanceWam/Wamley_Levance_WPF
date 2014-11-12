@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/whileLoop/whileLoop.html" afterPath="$PROJECT_DIR$/Loops_worksheet/whileLoop/whileLoop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/whileLoop/js/whileLoop.js" afterPath="$PROJECT_DIR$/Loops_worksheet/whileLoop/js/whileLoop.js" />
     </list>
     <ignored path="Wamley_Levance_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,18 +80,8 @@
       <file leaf-file-name="whileLoop.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loops_worksheet/whileLoop/js/whileLoop.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <caret line="8" column="98" selection-start-line="8" selection-start-column="98" selection-end-line="8" selection-end-column="98" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="whileLoop.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Loops_worksheet/whileLoop/whileLoop.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -115,6 +105,16 @@
               <folding>
                 <element signature="e#2#54#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whileLoop.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Loops_worksheet/whileLoop/whileLoop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -176,8 +176,8 @@
         <option value="$PROJECT_DIR$/Loops_worksheet/doLoop/doLoop.html" />
         <option value="$PROJECT_DIR$/Loops_worksheet/doLoop/js/doLoop.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/forLoop/js/forLoop.js" />
-        <option value="$PROJECT_DIR$/Loops_worksheet/whileLoop/js/whileLoop.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/whileLoop/whileLoop.html" />
+        <option value="$PROJECT_DIR$/Loops_worksheet/whileLoop/js/whileLoop.js" />
       </list>
     </option>
   </component>
@@ -908,24 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7/js/day7Beer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
-          <folding>
-            <element signature="e#2#54#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7/js/day7WhileLoop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/validatingPrompts/js/validationPrompt.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
@@ -950,10 +932,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7/js/day7Beer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding>
+            <element signature="e#2#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7/js/day7WhileLoop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/whileLoop/js/whileLoop.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="8" column="98" selection-start-line="8" selection-start-column="98" selection-end-line="8" selection-end-column="98" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding />
         </state>
       </provider>
