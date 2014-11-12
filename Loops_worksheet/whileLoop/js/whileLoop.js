@@ -12,7 +12,14 @@ alert("Hey sleepy head we know that you are tired so we decide to count sheep to
  var sheep =prompt("How many sheep do you want to count to?");
 
  while (counter<=sheep){
+console.log(counter+" sheeps");
+
+  if(counter===1){
+   console.log(counter+" sheep")
 
 
+  } if(){
 
+
+  }counter++;
  }
