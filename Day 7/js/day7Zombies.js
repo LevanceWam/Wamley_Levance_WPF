@@ -23,7 +23,7 @@ WPF 1411
 
  //everyday zombies will bite four people and turn them into zombies
  //loop number of days
-/*
+
  for(var i=1; i<=days; i++){
 
   //how many new zombies get made and when do they bite people
@@ -42,7 +42,7 @@ if(numZombies>=1000000){
 }
 
  }
-    */
+
 
 
 
