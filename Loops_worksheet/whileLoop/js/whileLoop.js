@@ -10,3 +10,9 @@ alert("Hey sleepy head we know that you are tired so we decide to count sheep to
  //we are going to count sheep until you fall asleep!
   var counter = 0;
  var sheep =prompt("How many sheep do you want to count to?");
+
+ while (counter<=sheep){
+
+
+
+ }
