@@ -8,12 +8,12 @@ WPF 1411
 //find the circumference of a circle
 
  function circumference (radius){
-var radius =prompt("What is the Raduis:");
+var radius =prompt("What is the Radius:");
 
+var cirCu = 2*Math.PI*radius;
 
-
-
-
+console.log("The circumference of the circle is "+cirCu);
+validateThis(radius)
 
 
 
