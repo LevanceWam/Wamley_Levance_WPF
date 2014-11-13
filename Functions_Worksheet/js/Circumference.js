@@ -23,7 +23,10 @@ console.log("The circumference of the circle is "+returnedCir);
 
  function validateThis(userPrompt){
   while(userPrompt==="" || isNaN(userPrompt)){
-   userPrompt=prompt("Please only Enter a value and do not leave blank")
+   userPrompt=prompt("Please only Enter a value and do not leave blank");
   }
   return userPrompt;
  }
+
+
+ 

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Worksheet/js/Circumference.js" afterPath="$PROJECT_DIR$/Functions_Worksheet/js/Circumference.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Wamley_Levance_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,8 +70,8 @@
       <file leaf-file-name="Circumference.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/Circumference.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5090909" vertical-offset="0" max-vertical-offset="825">
-              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.56363636" vertical-offset="0" max-vertical-offset="825">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -784,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/Circumference.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5090909" vertical-offset="0" max-vertical-offset="825">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.56363636" vertical-offset="0" max-vertical-offset="825">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding />
         </state>
       </provider>
