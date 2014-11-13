@@ -7,8 +7,8 @@ WPF 1411
  */
 //find the circumference of a circle
 
- function circumference (cir){
-var radius =prompt("")
+ function circumference (radius){
+var radius =prompt("What is the Raduis:");
 
 
 
@@ -22,4 +22,17 @@ var radius =prompt("")
 
 
 
+
+
+
+
+ }
+
+
+
+ function validateThis(userPrompt){
+  while(userPrompt==="" || isNaN(userPrompt)){
+   userPrompt=prompt("Please only Enter a value and do not leave blank")
+  }
+  return userPrompt;
  }
