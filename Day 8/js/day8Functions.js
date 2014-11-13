@@ -55,4 +55,4 @@ WPF 1411
 
   console.log("Your rectangle has an area of "+area)
 
- }
+ }console.log(Math.PI);
