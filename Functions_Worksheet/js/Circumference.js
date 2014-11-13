@@ -29,4 +29,9 @@ console.log("The circumference of the circle is "+returnedCir);
  }
 
 
- 
+ var weight=prompt("What is the weight of your animal");
+ function stupidAnimal(weight){
+
+var stung = weight * 8.666666667
+
+ }
