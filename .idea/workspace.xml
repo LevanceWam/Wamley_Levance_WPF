@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8Functions.js" afterPath="$PROJECT_DIR$/Day 8/js/day8Functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8Scope.js" afterPath="$PROJECT_DIR$/Day 8/js/day8Scope.js" />
     </list>
     <ignored path="Wamley_Levance_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +46,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Scope.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day8Scope.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 8/js/day8Scope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8Arguement.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8/js/day8Arguement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8Agruements.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 8/day8Agruements.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -64,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day3/js/script.js" />
-        <option value="$PROJECT_DIR$/Day 5/Conditionals.html" />
         <option value="$PROJECT_DIR$/Day 5/js/Dayconditionals.js" />
         <option value="$PROJECT_DIR$/Day 5/js/day5Steak.js" />
         <option value="$PROJECT_DIR$/Day 5/js/Day5steaktemp2.js" />
@@ -115,6 +133,8 @@
         <option value="$PROJECT_DIR$/Day 8/day8Functions.html" />
         <option value="$PROJECT_DIR$/Day 8/js/day8Functions.js" />
         <option value="$PROJECT_DIR$/Day 8/day8Scope.html" />
+        <option value="$PROJECT_DIR$/Day 8/js/day8Scope.js" />
+        <option value="$PROJECT_DIR$/Day 8/day8Agruements.html" />
       </list>
     </option>
   </component>
@@ -315,24 +335,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Conditionals_Assignments/Conditionals_Personal/conditonalsPersonal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Group 1/js/group1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25454545" vertical-offset="0" max-vertical-offset="825">
-          <caret line="19" column="123" selection-start-line="19" selection-start-column="123" selection-end-line="19" selection-end-column="123" />
-          <folding>
-            <element signature="e#1#58#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 6/math.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
@@ -725,8 +727,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/js/day8Scope.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/js/day8Arguement.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/day8Agruements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding />
         </state>
       </provider>
