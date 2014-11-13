@@ -38,3 +38,4 @@ var stung = weight * 8.666666667;
  }
  weight=validateThis(weight);
  var returnedStung=stupidAnimal(weight);
+ console.log("It takes"+ returnedStung+"bee stings to kill this animal.");
