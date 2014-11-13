@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="" />
+    <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8Returns.js" afterPath="$PROJECT_DIR$/Day 8/js/day8Returns.js" />
+    </list>
     <ignored path="Wamley_Levance_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,31 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Arguement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/js/day8Arguement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-              <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day8Returns.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day8Returns.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day8Retuns.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 8/day8Retuns.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.8909091" vertical-offset="0" max-vertical-offset="1305">
+              <caret line="49" column="92" selection-start-line="49" selection-start-column="92" selection-end-line="49" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -92,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 5/js/Day5steaktemp2.js" />
         <option value="$PROJECT_DIR$/Day 4/steak Temp.html" />
         <option value="$PROJECT_DIR$/Day 5/steak Temp.html" />
         <option value="$PROJECT_DIR$/Day 5/day5LogicalOps.html" />
@@ -143,6 +124,7 @@
         <option value="$PROJECT_DIR$/Day 8/day8Agruements.html" />
         <option value="$PROJECT_DIR$/Day 8/js/day8Arguement.js" />
         <option value="$PROJECT_DIR$/Day 8/day8Retuns.html" />
+        <option value="$PROJECT_DIR$/Day 8/js/day8Returns.js" />
       </list>
     </option>
   </component>
@@ -717,14 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8/js/day8Scope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/day8Agruements.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
@@ -733,26 +707,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/day8Retuns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/js/day8Arguement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+        <state vertical-scroll-proportion="0.7090909" vertical-offset="105" max-vertical-offset="930">
           <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/js/day8Scope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8/day8Retuns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.8909091" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="49" column="92" selection-start-line="49" selection-start-column="92" selection-end-line="49" selection-end-column="92" />
           <folding />
         </state>
       </provider>
