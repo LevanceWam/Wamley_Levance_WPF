@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/functionsIndustry.js" afterPath="$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/js/functionsIndustry.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Function_Assignments/Functions_Personal/functionsPersonal.js" afterPath="$PROJECT_DIR$/Function_Assignments/Functions_Personal/js/functionsPersonal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Function_Assignments/Functions_Wacky/functionWacky.js" afterPath="$PROJECT_DIR$/Function_Assignments/Functions_Wacky/js/functionWacky.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Wamley_Levance_WPF.iws" />
@@ -26,16 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day9Procedures.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 9/js/day9Procedures.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="day9Anonymous.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 9/js/day9Anonymous.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,7 +70,7 @@
         </entry>
       </file>
       <file leaf-file-name="functionsIndustry.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/functionsIndustry.js">
+        <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/js/functionsIndustry.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -87,7 +80,7 @@
         </entry>
       </file>
       <file leaf-file-name="functionsPersonal.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Personal/functionsPersonal.js">
+        <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Personal/js/functionsPersonal.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -96,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functionWacky.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Wacky/functionWacky.js">
+      <file leaf-file-name="functionWacky.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Wacky/js/functionWacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functionsPersonal.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Personal/functionsPersonal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -116,16 +119,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day9MultipleFunctions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 9/day9MultipleFunctions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -134,10 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Conditionals_Assignment/Group 3/js/group3.js" />
-        <option value="$PROJECT_DIR$/Conditionals_Assignment/Group 1/js/group1.js" />
-        <option value="$PROJECT_DIR$/Day 6/day6.html" />
-        <option value="$PROJECT_DIR$/Day 6/js/day6.js" />
         <option value="$PROJECT_DIR$/Day 6/math.html" />
         <option value="$PROJECT_DIR$/Day 7/day7WhileLoops.html" />
         <option value="$PROJECT_DIR$/Day 7/day7ForLoop.html" />
@@ -185,6 +174,10 @@
         <option value="$PROJECT_DIR$/Day 9/js/day9Anonymous.js" />
         <option value="$PROJECT_DIR$/Day 9/day9MultipleFunctions.html" />
         <option value="$PROJECT_DIR$/Day 9/js/day9MultipleFunctions.js" />
+        <option value="$PROJECT_DIR$/Function_Assignments/Functions_Wacky/functionWacky.js" />
+        <option value="$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/functionsIndustry.html" />
+        <option value="$PROJECT_DIR$/Function_Assignments/Functions_Wacky/functionsWacky.html" />
+        <option value="$PROJECT_DIR$/Function_Assignments/Functions_Personal/functionsPersonal.html" />
       </list>
     </option>
   </component>
@@ -250,10 +243,6 @@
               <option name="myItemId" value="Function_Assignments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_Wacky" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -287,7 +276,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_Indusrty" />
+              <option name="myItemId" value="Functions_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -308,9 +301,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Function_Assignments/Functions_Personal/js" />
+      <recent name="$PROJECT_DIR$/Function_Assignments/Functions_Wacky/js" />
+      <recent name="$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/js" />
       <recent name="$PROJECT_DIR$/Functions_Worksheet/js" />
       <recent name="$PROJECT_DIR$/Conditionals_Assignment/Group 1/js" />
-      <recent name="$PROJECT_DIR$/Day 5" />
     </key>
   </component>
   <component name="RunManager">
@@ -408,32 +403,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1320">
-          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day3/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="3210">
-          <caret line="141" column="25" selection-start-line="141" selection-start-column="25" selection-end-line="141" selection-end-column="25" />
-          <folding>
-            <element signature="e#72#136#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/js/day4Arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="975">
@@ -796,7 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/functionsIndustry.js">
+    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/js/functionsIndustry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -804,7 +773,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Personal/functionsPersonal.js">
+    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Personal/js/functionsPersonal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -812,10 +781,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Wacky/functionWacky.js">
+    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Indusrty/functionsIndustry.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Wacky/functionsWacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Wacky/js/functionWacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function_Assignments/Functions_Personal/functionsPersonal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           <folding />
         </state>
       </provider>
