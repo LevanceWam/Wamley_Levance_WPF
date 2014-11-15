@@ -41,7 +41,7 @@ WPF 1411
   //console.log the per inside of the procedure
   console.log(peri);
   //does NOT return a value
-  
+
  }
 
  //function call the procedure
