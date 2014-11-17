@@ -37,8 +37,6 @@ days*=6;
  days-=10;
 
 return days;
-
 }
 var returnedDays =vacation(off);
-
 console.log("Hey you have "+returnedDays+" days off this year!");
