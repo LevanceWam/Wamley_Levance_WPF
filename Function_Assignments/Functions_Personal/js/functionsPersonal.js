@@ -22,7 +22,8 @@ WPF 1411
  if(buffaloWildWings==="" || isNaN(buffaloWildWings) || buffaloWildWings>10){
   buffaloWildWings=prompt("Please enter a value and make sure that its lower than 10")
  }
- (longhorn===redLobster) ? console.log("We go to Buffalo Wild Wings because of the tie"):
+ (longhorn===redLobster) ? console.log("We go to Buffalo Wild Wings because of the tie"):(longhorn===buffaloWildWings) ? console.log("We go to Red Lobster because of the tie") :(redLobster===longhorn) ? console.log("We go to Buffalo Wild Wings because of the tie") :
+     (redLobster===buffaloWildWings) ? console.log("We go to Longhorn because of the tie") :
 
 
 
@@ -34,7 +35,8 @@ WPF 1411
   if ((Number(long) + Number(red) + Number(buff)) > 10) {
    console.log("We stay home until someone learns how to count the right way");
 
-  }
+  }if ((Number(long) + Number(red) + Number(buff)) < 10) {
+   console.log("We don't eat because some people didn't vote");
 
  }
 
@@ -50,4 +52,5 @@ WPF 1411
    console.log("Lets go to Buffalo Wild Wings");
   }
 
+ }
  }
