@@ -28,7 +28,7 @@ WPF 1411
 
  total(longhorn,redLobster,buffaloWildWings);
  place(longhorn,redLobster,buffaloWildWings);
- (longhorn === redLobster || redLobster === buffaloWildWings) ? console.log("get a pizza because we can't decide"):console.log("get a pizza because we can't decide");
+
 
  function total (long,red,buff) {
   if ((Number(long) + Number(red) + Number(buff)) > 10) {
@@ -54,3 +54,4 @@ WPF 1411
  }
  }
 
+ (longhorn === redLobster<10 || redLobster === buffaloWildWings<10) ? console.log("get a pizza because we can't decide"):((Number(longhorn) + Number(redLobster) + Number(buffaloWildWings))===10);
