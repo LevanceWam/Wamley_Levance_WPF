@@ -22,7 +22,7 @@ WPF 1411
  if(buffaloWildWings==="" || isNaN(buffaloWildWings) || buffaloWildWings>10){
   buffaloWildWings=prompt("Please enter a value and make sure that its lower than 10")
  }
-
+ (longhorn===redLobster) ? console.log("We go to Buffalo Wild Wings because of the tie"):
 
 
 
