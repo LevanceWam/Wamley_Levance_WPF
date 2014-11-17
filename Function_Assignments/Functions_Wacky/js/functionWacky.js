@@ -16,7 +16,7 @@ WPF 1411
 
 var anonNumber = function(num){
 num*=5;
- num*2;
+ num*=2;
  num*=10;
  num/=100;
   return num
