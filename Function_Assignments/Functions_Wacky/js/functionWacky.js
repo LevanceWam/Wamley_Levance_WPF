@@ -13,13 +13,12 @@ WPF 1411
   number = prompt("Please enter a number only.");
  }
 
-
+//create the function
 var anonNumber = function(num){
 num*=5;
  num*=2;
  num*=10;
  num/=100;
-
   return num
 };
  var returnedAnonNum = anonNumber(number);
