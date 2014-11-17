@@ -14,6 +14,18 @@ WPF 1411
   off=prompt("Please only type in values")
  }
 
-function vacation
+function vacation(days){
+//so here we are going to find how many days you have off in a year.
+
+ days*=12;
+
+
+
+
+
+
+
+
+}
 
 
