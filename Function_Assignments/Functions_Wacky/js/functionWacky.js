@@ -18,11 +18,11 @@ var anonNumber = function(num){
 num*=5;
  num*2;
  num*=10;
- num/=10
+ num/=100;
   return num
 };
  var returnedAnonNum = anonNumber(number);
- console.log
+ console.log("Your number was "+returnedAnonNum);
 
 
 
