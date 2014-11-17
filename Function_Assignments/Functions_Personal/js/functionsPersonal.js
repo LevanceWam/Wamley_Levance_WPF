@@ -16,7 +16,7 @@ WPF 1411
  }
  var redLobster=prompt("How many people voted for Red Lobster?");
  if(redLobster==="" || isNaN(redLobster) || redLobster> 10){
-  redLobster=prompt("please enter a value and make sure that its lower than 10");
+  redLobster=prompt("Please enter a value and make sure that its lower than 10");
  }
  var buffaloWildWings=prompt("How many people voted for Buffalo Wild Wings?");
  if(buffaloWildWings==="" || isNaN(buffaloWildWings) || buffaloWildWings>10){
@@ -49,9 +49,9 @@ WPF 1411
   } else if (rl > lh && rl > bww) {
    console.log("Let's go to Red Lobster everyone");
   } else if (bww > lh && bww > rl) {
-   console.log("Lets go to Buffalo Wild Wings");
+   console.log("Let's go to Buffalo Wild Wings");
 
  }
  }
 
- (longhorn === redLobster<10 || redLobster === buffaloWildWings<10) ? console.log("get a pizza because we can't decide"):((Number(longhorn) + Number(redLobster) + Number(buffaloWildWings))===10);
+ (longhorn === redLobster<10 || redLobster === buffaloWildWings<10) ? console.log("Go get a pizza because we can't decide"):((Number(longhorn) + Number(redLobster) + Number(buffaloWildWings))===10);
