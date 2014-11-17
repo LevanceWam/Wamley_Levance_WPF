@@ -11,7 +11,7 @@ WPF 1411
  var off =prompt("How many days do you have off in 1 month");
  while(off==="" || isNaN(off)){
 
-  off=prompt("Please only type in values")
+  off=prompt("Please only type in values.")
  }
 
 function vacation(days){
