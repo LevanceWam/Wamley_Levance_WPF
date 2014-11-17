@@ -11,14 +11,14 @@ WPF 1411
  //So out of 10 people you guys take a vote.
 
  var longhorn=prompt("How many people voted for Longhorn?");
- var redLobster=prompt("How many people voted for Red Lobster?");
- var buffaloWildWings=prompt("How many people voted for Buffalo Wild Wings?");
-
  longhorn=validateMe(longhorn);
+ var redLobster=prompt("How many people voted for Red Lobster?");
  redLobster=validateMe(redLobster);
+ var buffaloWildWings=prompt("How many people voted for Buffalo Wild Wings?");
 buffaloWildWings=validateMe(buffaloWildWings);
+ total(longhorn,redLobster,buffaloWildWings);
 
- var place =function(lh,rl,bww){
+ function place(lh,rl,bww){
 
   if(lh>rl && lh>bww){
    console.log("Let's go to Longhorn everyone");
@@ -26,12 +26,9 @@ buffaloWildWings=validateMe(buffaloWildWings);
    console.log("Let's go to Red Lobster everyone");
   } else if(bww>lh && bww>rh){
    console.log("Lets go to Buffalo Wild Wings");
-  } else if(Number(lh)+Number(rl)+Number(bww)){
-   console.log("We stay home until someone learns how to count the right way")
-
   }
 
- };
+ }
 place(longhorn,redLobster,buffaloWildWings);
 
 
@@ -41,6 +38,15 @@ place(longhorn,redLobster,buffaloWildWings);
    userPrompt=prompt("Please enter a value and make sure its a number");
   }if(userPrompt>= 10){
    userPrompt=prompt("please enter a value lower than 10")
+  }
+
+ }
+
+
+ function total (long,red,buff) {
+  if ((Number(long) + Number(red) + Number(buff)) > 10) {
+   console.log("We stay home until someone learns how to count the right way");
+
   }
 
  }
