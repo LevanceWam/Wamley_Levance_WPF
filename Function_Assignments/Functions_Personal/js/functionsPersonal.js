@@ -22,35 +22,35 @@ WPF 1411
  if(buffaloWildWings==="" || isNaN(buffaloWildWings) || buffaloWildWings>10){
   buffaloWildWings=prompt("Please enter a value and make sure that its lower than 10")
  }
- (longhorn===redLobster) ? console.log("We go to Buffalo Wild Wings because of the tie"):(longhorn===buffaloWildWings) ? console.log("We go to Red Lobster because of the tie") :(redLobster===longhorn) ? console.log("We go to Buffalo Wild Wings because of the tie") :
-     (redLobster===buffaloWildWings) ? console.log("We go to Longhorn because of the tie") :
+
 
 
 
  total(longhorn,redLobster,buffaloWildWings);
  place(longhorn,redLobster,buffaloWildWings);
-
+ (longhorn === redLobster || redLobster === buffaloWildWings) ? console.log("get a pizza because we can't decide"):console.log("get a pizza because we can't decide");
 
  function total (long,red,buff) {
   if ((Number(long) + Number(red) + Number(buff)) > 10) {
    console.log("We stay home until someone learns how to count the right way");
 
-  }if ((Number(long) + Number(red) + Number(buff)) < 10) {
-   console.log("We don't eat because some people didn't vote");
-
- }
-
-
-
- function place(lh,rl,bww){
-
-  if(lh>rl && lh>bww){
-   console.log("Let's go to Longhorn everyone");
-  } else if(rl>lh && rl>bww){
-   console.log("Let's go to Red Lobster everyone");
-  } else if(bww>lh && bww>rl){
-   console.log("Lets go to Buffalo Wild Wings");
   }
+  if ((Number(long) + Number(red) + Number(buff)) < 10) {
+   console.log("We don't go out because some people didn't vote");
+
+  }
+ }
+
+
+ function place(lh,rl,bww) {
+
+  if (lh > rl && lh > bww) {
+   console.log("Let's go to Longhorn everyone");
+  } else if (rl > lh && rl > bww) {
+   console.log("Let's go to Red Lobster everyone");
+  } else if (bww > lh && bww > rl) {
+   console.log("Lets go to Buffalo Wild Wings");
 
  }
  }
+
