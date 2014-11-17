@@ -11,12 +11,32 @@ WPF 1411
  //So out of 10 people you guys take a vote.
 
  var longhorn=prompt("How many people voted for Longhorn?");
- longhorn=validateMe(longhorn);
  var redLobster=prompt("How many people voted for Red Lobster?");
- redLobster=validateMe(redLobster);
+ //redLobster=validateMe(redLobster);
  var buffaloWildWings=prompt("How many people voted for Buffalo Wild Wings?");
-buffaloWildWings=validateMe(buffaloWildWings);
+//buffaloWildWings=validateMe(buffaloWildWings);
+ place(longhorn,redLobster,buffaloWildWings);
+
+
+
+  while(longhorn==="" || isNaN(longhorn || longhorn>10)){
+   longhorn=prompt("Please enter a value and make sure its a number lower than 10");
+  }if(redLobster==="" || isNaN(redLobster) || redLobster> 10){
+   redLobstert=prompt("please enter a value and make sure that its lower than 10");
+  }else if(buffaloWildWings==="" || isNaN(buffaloWildWings) || buffaloWildWings>10)
+
+
+
+
+ function total (long,red,buff) {
+  if ((Number(long) + Number(red) + Number(buff)) > 10) {
+   console.log("We stay home until someone learns how to count the right way");
+
+  }
+
+ }
  total(longhorn,redLobster,buffaloWildWings);
+
 
  function place(lh,rl,bww){
 
@@ -26,27 +46,6 @@ buffaloWildWings=validateMe(buffaloWildWings);
    console.log("Let's go to Red Lobster everyone");
   } else if(bww>lh && bww>rh){
    console.log("Lets go to Buffalo Wild Wings");
-  }
-
- }
-place(longhorn,redLobster,buffaloWildWings);
-
-
-
- function validateMe (userPrompt){
-  while(userPrompt==="" || isNaN(userPrompt)){
-   userPrompt=prompt("Please enter a value and make sure its a number");
-  }if(userPrompt>= 10){
-   userPrompt=prompt("please enter a value lower than 10")
-  }
-
- }
-
-
- function total (long,red,buff) {
-  if ((Number(long) + Number(red) + Number(buff)) > 10) {
-   console.log("We stay home until someone learns how to count the right way");
-
   }
 
  }
