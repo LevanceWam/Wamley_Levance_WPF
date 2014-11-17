@@ -19,13 +19,26 @@ function vacation(days){
 
  days*=12;
 
+ //Ok now that we have gotten that out of the way. this is where we find out what you actually have
+ //So lets say you have a personal project at home and you work on it at home at least twice a month.
 
+ days-=24;
 
+ //your job also calls in because something happened at work and they need you to fill in and this happens at least once a month
 
+days-=12;
 
+ //Your job multiplies the days you have left by 6 and then divide by 2 to give you back those days you worked
 
+days*=6;
+ days/=2;
 
+ //finally you subtract 10 days for family and other things that will have you doing stuff on your day off.
+ days-=10;
+
+return days;
 
 }
+var returnedDays =vacation(off);
 
-
+console.log("Hey you have "+returnedDays+" days off this year!");
