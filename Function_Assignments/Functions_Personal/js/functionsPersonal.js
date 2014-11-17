@@ -46,7 +46,7 @@ WPF 1411
    console.log("Let's go to Longhorn everyone");
   } else if(rl>lh && rl>bww){
    console.log("Let's go to Red Lobster everyone");
-  } else if(bww>lh && bww>rh){
+  } else if(bww>lh && bww>rl){
    console.log("Lets go to Buffalo Wild Wings");
   }
 
