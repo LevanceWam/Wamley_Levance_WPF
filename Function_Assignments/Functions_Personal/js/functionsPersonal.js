@@ -11,21 +11,23 @@ WPF 1411
  //So out of 10 people you guys take a vote.
 
  var longhorn=prompt("How many people voted for Longhorn?");
+ while(longhorn==="" || isNaN(longhorn || longhorn>10)){
+  longhorn=prompt("Please enter a value and make sure its a number lower than 10");
+ }
  var redLobster=prompt("How many people voted for Red Lobster?");
- //redLobster=validateMe(redLobster);
+ if(redLobster==="" || isNaN(redLobster) || redLobster> 10){
+  redLobster=prompt("please enter a value and make sure that its lower than 10");
+ }
  var buffaloWildWings=prompt("How many people voted for Buffalo Wild Wings?");
-//buffaloWildWings=validateMe(buffaloWildWings);
+ if(buffaloWildWings==="" || isNaN(buffaloWildWings) || buffaloWildWings>10){
+  buffaloWildWings=prompt("Please enter a value and make sure that its lower than 10")
+ }
+
+
+
+
+ total(longhorn,redLobster,buffaloWildWings);
  place(longhorn,redLobster,buffaloWildWings);
-
-
-
-  while(longhorn==="" || isNaN(longhorn || longhorn>10)){
-   longhorn=prompt("Please enter a value and make sure its a number lower than 10");
-  }if(redLobster==="" || isNaN(redLobster) || redLobster> 10){
-   redLobstert=prompt("please enter a value and make sure that its lower than 10");
-  }else if(buffaloWildWings==="" || isNaN(buffaloWildWings) || buffaloWildWings>10)
-
-
 
 
  function total (long,red,buff) {
@@ -35,7 +37,7 @@ WPF 1411
   }
 
  }
- total(longhorn,redLobster,buffaloWildWings);
+
 
 
  function place(lh,rl,bww){
