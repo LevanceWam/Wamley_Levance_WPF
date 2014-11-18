@@ -12,17 +12,17 @@ var avengersNames = ["Hulk","Spiderman","Iron Man"];
 console.log(avengersNames);
 
 // access a specific avenger in our array
-console.log(avengersNames[1]);
+//console.log(avengersNames[1]);
 
 //We can use a variable to rep our index number as well
-var num = 2;
+//var num = 2;
 
 //Lets print
-console.log(avengersNames[num]);
+//console.log(avengersNames[num]);
 
 // Now lets add an avenger to the array
 avengersNames[3] = "Thor";
-console.log(avengersNames);
+//console.log(avengersNames);
 
 // Figure out the length of the array we solve this using the .length property
 //dot syntax property put a period in it
@@ -31,7 +31,7 @@ console.log(avengersNames.length);
 
 //add another avengers
 avengersNames[avengersNames.length]="Captain America";
-console.log(avengersNames);
+//console.log(avengersNames);
 
 //add black window
 avengersNames[avengersNames.length]= "Black Window";
@@ -47,6 +47,15 @@ avengersNames.push("Iron Patriot");
 avengersNames.push("Fantastic 4");
 avengersNames.push("Silver Surfer");
 avengersNames.push("Wolverine");
+avengersNames.push("Ghost Rider");
+avengersNames[1]="Captain marvel";
+avengersNames.push("She Hulk");
+avengersNames.push("Ant Man");
+avengersNames.push("Wasp");
+avengersNames.push(("Scarlet Witch"));
+avengersNames.push("Quicksilver");
+avengersNames.push("Falcon");
+avengersNames.push("Squirrel Girl");
 
 
 for(var i=0;i<avengersNames.length;i++){
