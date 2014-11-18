@@ -29,48 +29,43 @@ console.log("You are "+returnedAge+" years old.");
 // area = length * width
 
 var length = prompt("We are going to calculate the area of a rectangle.|n Please enter the length of your rectangle");
-(length==="" || isNaN(length)) ? console.log("Please enter in a value only"):
+while (length==="" || isNaN(length)){
+    length=prompt("Please enter in the correct value");
+}
 
 var width = prompt("Please enter the width of your Rectangle.");
+    while(width==="" || isNaN(width)){
+        width=prompt("Please enter in a correct value")
+    }
 
 //calculate the area
 
 
-
+var areaTri=function(length,width){
 var area = length * width;
+return area;
+};
+var returnedArea  = areaTri(length,width);
+console.log("The area of your triangle is "+returnedArea);
 
 // create a result variable and then console log that
-var results = ("The area of your rectangle with a width of "+ width +" and a length of "+ length +" is "+ area);
-console.log(results);
-alert(results);
+//var results = ("The area of your rectangle with a width of "+ width +" and a length of "+ length +" is "+ area);
+//console.log(results);
+//alert(results);
 
 //console.log the area
-console.log("The area of your rectangle is "+ area+".");
-console.log("The area of your rectangle with a width of "+ width +" and a length of "+ length +" is "+ area);
+//console.log("The area of your rectangle is "+ area+".");
+//console.log("The area of your rectangle with a width of "+ width +" and a length of "+ length +" is "+ area);
 
 
 //alert the user the same info
-alert("The area of your rectangle with a width of "+ width +" and a length of "+ length +" is "+ area);
+//alert("The area of your rectangle with a width of "+ width +" and a length of "+ length +" is "+ area);
 
 
 
 
 
 
-
-
-
-//Description of item.
-alert("Thank you! For shopping with us please take the time to describe what you brought today for more chances of this item to show up in our store." +
-"");
-
-var e = prompt("What item did you buy");
-var f = prompt("What item did you buy");
-var g = prompt("What item did you buy");
-var h = prompt("What item did you buy");
-
-itemList = alert([e+", "+f+", "+g+", "+h]);
-console.log(itemList);
 
 
 
