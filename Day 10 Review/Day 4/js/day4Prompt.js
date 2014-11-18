@@ -29,6 +29,7 @@ console.log("You are "+returnedAge+" years old.");
 // area = length * width
 
 var length = prompt("We are going to calculate the area of a rectangle.|n Please enter the length of your rectangle");
+(length==="" || isNaN(length)) ? console.log("Please enter in a value only"):
 
 var width = prompt("Please enter the width of your Rectangle.");
 
