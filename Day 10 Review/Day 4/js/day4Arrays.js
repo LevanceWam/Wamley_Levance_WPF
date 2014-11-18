@@ -43,13 +43,25 @@ console.log(avengersNames[avengersNames.length -1]);
 //it adds whatever we put in automatically to the end of our array.
 avengersNames.push("Hawkeye");
 console.log(avengersNames);
+avengersNames.push("Spider-Man");
+avengersNames.push("Fantastic 4");
+avengersNames.push("Silver Surfer");
+avengersNames.push("")
+
+
+
+
+
+
+
+
 
 //pop - method of an array that removes the last item in array
 // you can save the pop variable if you want to
 //set a variable equal to the pop method
-var soloAvenger = avengersNames.pop();
-console.log(avengersNames);
-console.log(soloAvenger);
+//var soloAvenger = avengersNames.pop();
+//console.log(avengersNames);
+//console.log(soloAvenger);
 
 //Pick oranges every day
 //Track how many oranges are picked in each day
