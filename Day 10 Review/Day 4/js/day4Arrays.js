@@ -37,18 +37,21 @@ console.log(avengersNames);
 avengersNames[avengersNames.length]= "Black Window";
 
 //Access the last avenger in index
-console.log(avengersNames[avengersNames.length -1]);
+//console.log(avengersNames[avengersNames.length -1]);
 
 // New Method specific to arrays called push
 //it adds whatever we put in automatically to the end of our array.
 avengersNames.push("Hawkeye");
 console.log(avengersNames);
-avengersNames.push("Spider-Man");
+avengersNames.push("Iron Patriot");
 avengersNames.push("Fantastic 4");
 avengersNames.push("Silver Surfer");
-avengersNames.push("")
+avengersNames.push("Wolverine");
 
 
+for(var i=0;i<avengersNames.length;i++){
+    console.log("Assemble Avenger member "+avengersNames[i])
+}
 
 
 
