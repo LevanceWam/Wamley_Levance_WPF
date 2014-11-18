@@ -9,13 +9,20 @@ WPF 1411
 
 //ask user for output
 
-//prompt() askes the user to type something in
+//prompt() asks the user to type something in
 var yearBorn = prompt("Enter your Year of birth here");
 console.log(yearBorn);
+while(yearBorn==="" || isNaN(yearBorn)){
+    console.log("Please enter in a value.")
+}
 
 //Figure out how old we are
+function yourAge(yearBorn){
 var age = 2014 - yearBorn;
-console.log("You are "+age+" years old.");
+return age;
+}
+var returnedAge = yourAge(yearBorn);
+console.log("You are "+returnedAge+" years old.");
 
 
 //Calculate the area of a rectangle.
@@ -26,12 +33,15 @@ var length = prompt("We are going to calculate the area of a rectangle.|n Please
 var width = prompt("Please enter the width of your Rectangle.");
 
 //calculate the area
+
+
+
 var area = length * width;
 
 // create a result variable and then console log that
 var results = ("The area of your rectangle with a width of "+ width +" and a length of "+ length +" is "+ area);
 console.log(results);
-alert(results)
+alert(results);
 
 //console.log the area
 console.log("The area of your rectangle is "+ area+".");
