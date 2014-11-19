@@ -62,9 +62,9 @@ for(var i=0;i<avengersNames.length;i++){
     console.log("Assemble Avenger member "+avengersNames[i])
 }
 
+var lis="5"+6+7;
 
-
-
+console.log(lis);
 
 
 
