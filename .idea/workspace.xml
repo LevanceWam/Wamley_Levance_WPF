@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final_Exam/js/finalExam.js" afterPath="$PROJECT_DIR$/Final_Exam/js/finalExam.js" />
-    </list>
+    <list default="true" id="3a620333-ee0f-41b5-a87d-a16ecf609309" name="Default" comment="" />
     <ignored path="Wamley_Levance_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
